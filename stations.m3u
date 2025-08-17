@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:0,St.300 Sunshine Radio-Zentralschweiz [CH]
+https://chmedia.streamabc.net/79-rsunshine-mp3-192-9575103?sABC=669r0869%230%2358320nqn9n97qoqp957qo5q4qq5sono5%23jbeyqenqvbznc&aw_0_1st.playerid=worldradiomap&amsparams=playerid:worldradiomap;skey:1721632873
+#EXTINF:0,St.301 Radio 24-Zurich [CH]
+https://chmedia.streamabc.net/79-r24-mp3-192-6659699?sABC=669r08ns%230%2358320nqn9n97qoqp957qo5q4qq5sono5%23jbeyqenqvbznc&aw_0_1st.playerid=worldradiomap&amsparams=playerid:worldradiomap;skey:1721632943
+#EXTINF:0,St.302 Radio SRF 1-Zentralschweiz [CH]
+http://streaming.swisstxt.ch:80/m/regi_zentr/mp3_128
+#EXTINF:0,St.303 Radio Central-Zentralschweiz  [CH]
+https://chmedia.streamabc.net/79-rcentral-mp3-192-1355604?sABC=669r0983%230%2358320nqn9n97qoqp957qo5q4qq5sono5%23jbeyqenqvbznc&aw_0_1st.playerid=worldradiomap&amsparams=playerid:worldradiomap;skey:1721633155
+#EXTINF:0,St.304 GOAT Radio [CH]
+https://20min.dmd2streaming.com/20minuten_radio_128.mp3
+#EXTINF:0,St.305 Sunshine Radio-Zentralschweiz [CH]
+https://chmedia.streamabc.net/79-rsunshine-mp3-192-9575103?sABC=669r0n25%230%2358320nqn9n97qoqp957qo5q4qq5sono5%23jbeyqenqvbznc&aw_0_1st.playerid=worldradiomap&amsparams=playerid:worldradiomap;skey:1721633317
+#EXTINF:0,St.306 Radio 1-Zurich [CH]
+https://stream.radio1.ch/128k.m3u
+#EXTINF:0,St.307 Radio Argovia-Aargau [CH]
+https://chmedia.streamabc.net/79-argovia-mp3-192-3024993?sABC=669r0nno%230%2358320nqn9n97qoqp957qo5q4qq5sono5%23jbeyqenqvbznc&aw_0_1st.playerid=worldradiomap&amsparams=playerid:worldradiomap;skey:1721633451
+#EXTINF:0,St.308 Radio SRF 2 Kultur [CH]
+http://streaming.swisstxt.ch:80/m/drs2/mp3_128
+#EXTINF:0,St.309 Radio LoRa-Zurich [CH]
+http://icepe5:80/lora.mp3
+#EXTINF:0,St.310 Radio Television Suisse-La 1ere [CH]
+http://streaming.swisstxt.ch:80/m/la-1ere/mp3_128
+#EXTINF:0,St.311 Radio SRF 1-Ostschweiz [CH]
+http://streaming.swisstxt.ch:80/m/regi_ost/mp3_128
+#EXTINF:0,St.312 Radio SRF 3 [CH]
+http://streaming.swisstxt.ch:80/m/drs3/mp3_128
+#EXTINF:0,St.313 RSI Rete Uno-Svizzera italiana [CH]
+http://streaming.swisstxt.ch:80/m/reteuno/mp3_128
+#EXTINF:0,St.314 Radio FM1-St. Gallen [CH]
+https://chmedia.streamabc.net/79-fm1-mp3-192-7523806?sABC=669r0p9p%230%2358320nqn9n97qoqp957qo5q4qq5sono5%23jbeyqenqvbznc&aw_0_1st.playerid=worldradiomap&amsparams=playerid:worldradiomap;skey:1721633948
+#EXTINF:0,St.315 105 DJ Radio [CH]
+https://my105-stream14.radiohost.de/my105-djradio_mp3-192?_art=dD0xNzIxNjM0MzIyJmQ9OGFlMDFhZjUwZGFiZTAyMDA2ZGM
+#EXTINF:0,St.316 Tomorrowland One World Radio [CH]
+https://my105-stream16.radiohost.de/tomorrowland-one-world-radio_mp3-192
+#EXTINF:0,St.317 Aktiv Radio [CH]
+https://s4.radio.co/s7a78bf9d2/listen
+#EXTINF:0,St.318 Albradio-Zvicra [CH]
+https://ec6.yesstreaming.net:1800/stream
+#EXTINF:0,St.319 Radio GDS.FM [CH]
+http://gdsfm.out.airtime.pro:8000/gdsfm_a
+#EXTINF:0,St.320 Jam On Radio-Zug [CH]
+http://miniplain-edge-1:80/jam-on-128.mp3
+#EXTINF:0,St.321 Kanal K-Aarau [CH]
+https://kanalk.streamabc.net/91-kanalk-mp3-192-5146873?sABC=669r0r4r%230%2358320nqn9n97qoqp957qo5q4qq5sono5%23jrofgernz&aw_0_1st.playerid=webstream&amsparams=playerid:webstream;skey:1721634382
+#EXTINF:0,St.322 Radio MaXXima-Geneve [CH]
+http://maxxima.mine.nu:8080/maxxima.mp3
+#EXTINF:0,St.323 Radio Tell [CH]
+https://radiotell.dmd2streaming.com/radiotell.mp3
+#EXTINF:0,St.324 TopCC Radio-Zurich [CH]
+https://stream1.xdevel.com/audio7s975552-215/stream/icecast.audio
+#EXTINF:0,St.325 Radio X-Basel [CH]
+http://mp3.radiox.ch:8000/standard.mp3
+#EXTINF:0,St.326 Radio Swiss Classic [CH]
+http://streaming.swisstxt.ch:80/m/rsc_de/mp3_128
+#EXTINF:0,St.327 Radio Swiss Jazz [CH]
+http://streaming.swisstxt.ch:80/m/rsj/mp3_128
+#EXTINF:0,St.328 Radio Television Suisse-Couleur 3 [CH]
+http://streaming.swisstxt.ch:80/m/couleur3/mp3_128
+#EXTINF:0,St.329 Radio Television Suisse-Option Musique [CH]
+http://streaming.swisstxt.ch:80/m/option-musique/mp3_128
+#EXTINF:0,St.330 Radio Basilisk-Basel [CH]
+http://icepe1:80/radiobasilisk-64-128-0.mp3
+#EXTINF:0,St.331 Radio Freundes-Dienst [CH]
+http://icepe13:80/radiofd.mp3
+#EXTINF:0,St.332 Radio Gloria-Schweiz DAB+ [CH]
+https://ch-be06-ice.dmd2streaming.com/radiogloria_lo
+#EXTINF:0,St.333 Radio Sudostschweiz [CH]
+http://streaming.swisstxt.ch:80/m/grischa/aacp_96
+#EXTINF:0,St.334 Virgin Radio Switzerland [CH]
+https://chmedia.streamabc.net/79-virginrockch-mp3-192-2872456?sABC=669r137s%230%2358320nqn9n97qoqp957qo5q4qq5sono5%23jbeyqenqvbznc&aw_0_1st.playerid=worldradiomap&amsparams=playerid:worldradiomap;skey:1721635711
+#EXTINF:0,St.335 RSI Rete Tre-Svizzera italiana [CH]
+Nhttp://streaming.swisstxt.ch:80/m/retetre/mp3_128
+#EXTINF:0,St.336 Radio Central 2-Zentralschweiz [CH]
+https://chmedia.streamabc.net/79-rcentralasz-mp3-192-1071840?sABC=669r1419%230%2358320nqn9n97qoqp957qo5q4qq5sono5%23jbeyqenqvbznc&aw_0_1st.playerid=worldradiomap&amsparams=playerid:worldradiomap;skey:1721635865
